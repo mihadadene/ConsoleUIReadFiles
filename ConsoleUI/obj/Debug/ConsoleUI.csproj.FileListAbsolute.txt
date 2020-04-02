@@ -1,0 +1,21 @@
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ConsoleUI\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ConsoleUI\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ConsoleUI\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\mihadadene\source\repos\ConsoleUI\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\mihadadene\source\repos\ConsoleUI\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\mihadadene\source\repos\ConsoleUI\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\mihadadene\source\repos\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\mihadadene\source\repos\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\mihadadene\source\repos\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\mihadadene\source\repos\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\mihadadene\source\repos\ConsoleUIReadFiles\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\mihadadene\source\repos\ConsoleUIReadFiles\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\mihadadene\source\repos\ConsoleUIReadFiles\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\mihadadene\source\repos\ConsoleUIReadFiles\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\mihadadene\source\repos\ConsoleUIReadFiles\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\mihadadene\source\repos\ConsoleUIReadFiles\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\mihadadene\source\repos\ConsoleUIReadFiles\ConsoleUI\obj\Debug\ConsoleUI.pdb
